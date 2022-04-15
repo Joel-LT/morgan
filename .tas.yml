@@ -12,6 +12,6 @@ postMerge:
 postRun:
      command:
         - node --version
-        - node --version
+#         - node --version
 # configFile: mocharc.yml
 version: 1.0
